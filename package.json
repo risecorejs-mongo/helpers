@@ -1,18 +1,18 @@
 {
-  "name": "@risecorejs/helpers",
+  "name": "@risecorejs-mongo/helpers",
   "version": "2.0.4",
   "description": "",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/risecorejs/helpers.git"
+    "url": "git+https://github.com/risecorejs-mongo/helpers.git"
   },
   "author": "Amenov Abdulsalam <risecorejs@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/risecorejs/helpers/issues"
+    "url": "https://github.com/risecorejs-mongo/helpers/issues"
   },
-  "homepage": "https://github.com/risecorejs/helpers#readme",
+  "homepage": "https://github.com/risecorejs-mongo/helpers#readme",
   "devDependencies": {
     "prettier": "^2.3.2"
   },
